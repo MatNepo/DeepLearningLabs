@@ -15,9 +15,9 @@
 
 Тестирование модели проводил с использованием Postman, отправляя на локальный сервер POST запросы с текстом для подачи на вход модели. Вот несколько примеров работы (на 2 скриншоте использовал большое количество сокращений, как и ожидалось, модель не смогла нормально распознать эмоцию, об этом можно судить по выводу в терминал, где показано, что точность предсказания меньше 1%, в остальных случаях предсказания достаточно точные):
 
-![Image alt](https://github.com/MatNepo/DeepLearningLabs/new/main/lab_2/images/photo_2024-11-05_11-20-49.jpg)
-![Image alt](https://github.com/MatNepo/DeepLearningLabs/new/main/lab_2/images/photo_2024-11-05_11-20-50.jpg)
-![Image alt](https://github.com/MatNepo/DeepLearningLabs/new/main/lab_2/images/photo_2024-11-05_11-20-51.jpg)
-![Image alt](https://github.com/MatNepo/DeepLearningLabs/new/main/lab_2/images/photo_2024-11-05_11-20-52.jpg)
-![Image alt](https://github.com/MatNepo/DeepLearningLabs/new/main/lab_2/images/photo_2024-11-05_11-20-53.jpg)
-![Image alt](https://github.com/MatNepo/DeepLearningLabs/new/main/lab_2/images/photo_2024-11-05_11-20-54.jpg)
+![Figure 1](https://github.com/MatNepo/DeepLearningLabs/new/main/lab_2/images/photo_2024-11-05_11-20-49.jpg)
+![Figure 2](https://github.com/MatNepo/DeepLearningLabs/new/main/lab_2/images/photo_2024-11-05_11-20-50.jpg)
+![Figure 3](https://github.com/MatNepo/DeepLearningLabs/new/main/lab_2/images/photo_2024-11-05_11-20-51.jpg)
+![Figure 4](https://github.com/MatNepo/DeepLearningLabs/new/main/lab_2/images/photo_2024-11-05_11-20-52.jpg)
+![Figure 5](https://github.com/MatNepo/DeepLearningLabs/new/main/lab_2/images/photo_2024-11-05_11-20-53.jpg)
+![Figure 6](https://github.com/MatNepo/DeepLearningLabs/new/main/lab_2/images/photo_2024-11-05_11-20-54.jpg)
