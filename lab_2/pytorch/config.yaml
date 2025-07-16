@@ -1,0 +1,3 @@
+csv_file: "data/emotions.csv"  # Укажите путь к вашему CSV
+batch_size: 32
+num_epochs: 10
